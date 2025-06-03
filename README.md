@@ -6,7 +6,7 @@ This project analyzes the social media usage and its academic, mental, and regio
 
 ## 📁 Project Structure
 
-- `SM_Addiction.pbix`: Power BI file with all visualizations
+- `SocialMedia_Addiction_Analysis.pbix`: Power BI file with all visualizations
 - `screenshots/`: Key page previews
 - `assets/`: Icons, images, or survey sources
 
