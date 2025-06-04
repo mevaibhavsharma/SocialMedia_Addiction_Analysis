@@ -19,11 +19,11 @@ This project analyzes the social media usage and its academic, mental, and regio
 
 ## 🖼️ Dashboard Pages
 
-1. **Overview**
-2. **Platform Insights**
-3. **Regional Academic Impact**
-4. **Addiction Dive**
-5. **About Survey**
+1. **Overview** ![Dashboard.preview](https://github.com/mevaibhavsharma/SocialMedia_Addiction_Analysis/blob/main/screenshots/Page1_Overview_page.png)
+2. **Platform Insights** ![Dashboard.preview](https://github.com/mevaibhavsharma/SocialMedia_Addiction_Analysis/blob/main/screenshots/Page2_platform_insights.png)
+3. **Regional Academic Impact** ![Dashboard.preview](https://github.com/mevaibhavsharma/SocialMedia_Addiction_Analysis/blob/main/screenshots/Page3_regional_academic_impact.png)
+4. **Addiction Dive** ![Dashboard.preview](https://github.com/mevaibhavsharma/SocialMedia_Addiction_Analysis/blob/main/screenshots/Page4_addiction_dive.png)
+5. **About Survey** ![Dashboard.preview](https://github.com/mevaibhavsharma/SocialMedia_Addiction_Analysis/blob/main/screenshots/Page5_about_survey.png)
 
 ## 🔧 Tools Used
 
